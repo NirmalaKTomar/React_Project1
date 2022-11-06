@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "https://nirmalaktomar.github.io/csb-8z4gf6/static/css/main.0df9532a.chunk.css",
+    "main.js": "https://nirmalaktomar.github.io/csb-8z4gf6/static/js/main.5ec6fdec.chunk.js",
+    "main.js.map": "https://nirmalaktomar.github.io/csb-8z4gf6/static/js/main.5ec6fdec.chunk.js.map",
+    "runtime-main.js": "https://nirmalaktomar.github.io/csb-8z4gf6/static/js/runtime-main.3d5fc2ed.js",
+    "runtime-main.js.map": "https://nirmalaktomar.github.io/csb-8z4gf6/static/js/runtime-main.3d5fc2ed.js.map",
+    "static/js/2.ac40023b.chunk.js": "https://nirmalaktomar.github.io/csb-8z4gf6/static/js/2.ac40023b.chunk.js",
+    "static/js/2.ac40023b.chunk.js.map": "https://nirmalaktomar.github.io/csb-8z4gf6/static/js/2.ac40023b.chunk.js.map",
+    "index.html": "https://nirmalaktomar.github.io/csb-8z4gf6/index.html",
+    "precache-manifest.84e0e618cf312ea50cc2df9ac423ed03.js": "https://nirmalaktomar.github.io/csb-8z4gf6/precache-manifest.84e0e618cf312ea50cc2df9ac423ed03.js",
+    "service-worker.js": "https://nirmalaktomar.github.io/csb-8z4gf6/service-worker.js",
+    "static/css/main.0df9532a.chunk.css.map": "https://nirmalaktomar.github.io/csb-8z4gf6/static/css/main.0df9532a.chunk.css.map",
+    "static/js/2.ac40023b.chunk.js.LICENSE.txt": "https://nirmalaktomar.github.io/csb-8z4gf6/static/js/2.ac40023b.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3d5fc2ed.js",
+    "static/js/2.ac40023b.chunk.js",
+    "static/css/main.0df9532a.chunk.css",
+    "static/js/main.5ec6fdec.chunk.js"
+  ]
+}
